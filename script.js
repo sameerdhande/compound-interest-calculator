@@ -1,3 +1,5 @@
+// AUTHOR - SAMEER DHANDE
+
 function calculateInterest() {
   const principal = parseFloat(document.getElementById("principal").value);
   const contribution = parseFloat(
